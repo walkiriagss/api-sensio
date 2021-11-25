@@ -16,7 +16,7 @@ PostgreSQL em api-sensio/.env e por fim, executar a aplicação.
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/walkiriagss/financeira.git>
+$ git clone <https://github.com/walkiriagss/api-sensio.git>
 
 # Acesse a pasta do projeto backend no terminal/cmd
 $ cd api-sensio
